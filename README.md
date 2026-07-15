@@ -535,7 +535,7 @@ WHERE id = 3;
 
 ---
 
-### 4.5.5 Riwayat beli flash sale (JOIN + GROUP BY)
+### 4.5.5 Riwayat beli flash sale (JOIN)
 
 ### SQL
 
